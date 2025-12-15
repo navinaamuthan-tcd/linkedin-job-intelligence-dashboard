@@ -1,6 +1,3 @@
-Here’s a concise README you can drop into your repo and tweak as needed.
-
-***
 
 # LinkedIn Job Market Intelligence Dashboard
 
